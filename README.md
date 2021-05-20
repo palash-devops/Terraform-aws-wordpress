@@ -31,7 +31,7 @@ Usage:
 provisioning:
 -------------
 
-1. git clone https://github.com/aleti-pavan/terraform-aws-wordpress.git
+1. git clone https://github.com/palash-devops/Terraform-aws-wordpress
 2. cd terraform-aws-wordpress
 2. terraform init
 3. terraform plan
